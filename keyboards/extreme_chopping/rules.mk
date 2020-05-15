@@ -33,6 +33,6 @@ SLEEP_LED_ENABLE = no    # Breathing sleep LED during USB suspend
 
 SPLIT_KEYBOARD = yes
 
-LAYOUTS = ortho_5x14
+LAYOUTS = ortho_5x16
 
 # DEFAULT_FOLDER = extreme_chopping/default
