@@ -35,4 +35,4 @@ SPLIT_KEYBOARD = yes
 
 LAYOUTS = ortho_5x16
 
-# DEFAULT_FOLDER = extreme_chopping/default
+# DEFAULT_FOLDER = extreme_chopping/
