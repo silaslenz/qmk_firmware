@@ -30,11 +30,11 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 /* key matrix size */
 // Rows are doubled-up
 #define MATRIX_ROWS 10
-#define MATRIX_COLS 7
+#define MATRIX_COLS 8
 
 // wiring of each half
 #define MATRIX_ROW_PINS { F4, F5, F6, F7, B1 }
-#define MATRIX_COL_PINS { B3, B2, B6, B5, B4, E6, D7 }
+#define MATRIX_COL_PINS { B3, B2, B6, B5, B4, E6, D7, C6 }
 // #define MATRIX_COL_PINS { B6, B2, B3, B1, F7, F6 } //uncomment this line and comment line above if you need to reverse left-to-right key order
 
 #define DIODE_DIRECTION COL2ROW
