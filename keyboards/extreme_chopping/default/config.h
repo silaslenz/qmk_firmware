@@ -22,8 +22,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define VENDOR_ID       0xFEED
 #define PRODUCT_ID      0x3060
 #define DEVICE_VER      0x0001
-#define MANUFACTURER    Wootpatoot
-#define PRODUCT         Lets Split v2
+#define MANUFACTURER    Silas Lenz
+#define PRODUCT         Extreme Chopping Keyboard
 #define DESCRIPTION     A split keyboard for the cheap makers
 #define FLIP_HALF
 
@@ -55,11 +55,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define LOCKING_SUPPORT_ENABLE
 /* Locking resynchronize hack */
 #define LOCKING_RESYNC_ENABLE
-
-/* ws2812 RGB LED */
-#define RGB_DI_PIN D3
-
-#define RGBLED_NUM 12    // Number of LEDs
 
 /*
  * Feature disable options
