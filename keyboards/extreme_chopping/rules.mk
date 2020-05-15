@@ -35,4 +35,4 @@ SPLIT_KEYBOARD = yes
 
 LAYOUTS = ortho_4x12
 
-DEFAULT_FOLDER = lets_split/rev2
+DEFAULT_FOLDER = extreme_chopping/default
