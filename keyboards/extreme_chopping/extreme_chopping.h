@@ -2,13 +2,7 @@
 
 #include "quantum.h"
 
-#ifdef KEYBOARD_lets_split_rev1
-    #include "rev1.h"
-#elif KEYBOARD_lets_split_rev2
-    #include "rev2.h"
-#elif KEYBOARD_lets_split_sockets
-    #include "sockets.h"
-#endif
+#include "rev1.h"
 // Used to create a keymap using only KC_ prefixed keys
 #define LAYOUT( \
 	L00, L01, L02, L03, L04, L05, L06, R00, R01, R02, R03, R04, R05, R06,\

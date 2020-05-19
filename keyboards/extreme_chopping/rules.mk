@@ -36,3 +36,4 @@ SPLIT_KEYBOARD = yes
 LAYOUTS = default
 
 # DEFAULT_FOLDER = extreme_chopping/
+OLED_DRIVER_ENABLE = yes
